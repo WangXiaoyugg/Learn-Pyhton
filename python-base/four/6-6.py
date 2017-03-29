@@ -1,0 +1,1 @@
+s = set(['Adam','Lisa','Bart','Paul'])
